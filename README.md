@@ -6,7 +6,7 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS->=16.13.0-brightgreen?style=for-the-badge&logo=Node.js"></a> 
 <a href="https://github.com/hmes98318/Music-Disc/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/hmes98318/Music-Disc?style=for-the-badge&color=brightgreen"></a>  
 
-## Invite Now <img alt="[Invite Now](https://discord.com/api/oauth2/authorize?client_id=1137802970042482750&permissions=8&scope=bot)" src="https://img.shields.io/badge/Invvite_Now">
+## Invite Now <img alt="https://discord.com/api/oauth2/authorize?client_id=1137802970042482750&permissions=8&scope=bot" src="https://img.shields.io/badge/Invvite_Now">
 
 ### Discord.js v14 Music Bot  
 This is a music bot developed based on [**LavaShark**](https://lavashark.js.org/).  
