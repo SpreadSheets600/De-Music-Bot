@@ -6,9 +6,12 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.JS->=16.13.0-brightgreen?style=for-the-badge&logo=Node.js"></a> 
 <a href="https://github.com/hmes98318/Music-Disc/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/hmes98318/Music-Disc?style=for-the-badge&color=brightgreen"></a>  
 
+## Invite Now ![Invite Now](https://img.shields.io/badge/:https://discord.com/api/oauth2/authorize?client_id=1137802970042482750&permissions=8&scope=bot)
+
 ### Discord.js v14 Music Bot  
 This is a music bot developed based on [**LavaShark**](https://lavashark.js.org/).  
-If you need the version of [**discord-player**](https://github.com/Androz2091/discord-player), please refer to this [**branch**](https://github.com/hmes98318/Music-Disc/tree/discord-player).  
+
+
 
 Supports **YouTube**, **Spotify**, **SoundCloud** streams.  
 
